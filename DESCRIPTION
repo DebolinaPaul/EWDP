@@ -1,0 +1,10 @@
+Package: EWDPmeans
+Type: Package
+Title: Entropy Weighted Dirichlet Process Means (EWDPmeans)
+Version: 0.1.0
+Author: Debolina Paul, Swagatam Das
+Maintainer: Debolina Paul <debolinap8@gmail.com>
+Description: This package is a clustering technique that can provide partitioning of data in an unsupervised way. The additional advantage of using this method is that the number of clusters are not required to known a-priori. This method is useful in clustering high-dimensional data since the entropy regularizer on feature weights provides a method of feature selection.
+License: MIT license
+Encoding: UTF-8
+LazyData: FALSE
